@@ -1,0 +1,42 @@
+{
+  "rows_used": 500,
+  "feature_columns": [
+    "attendance_percentage",
+    "tasks_completed",
+    "tasks_pending",
+    "avg_task_score",
+    "mentor_feedback_score",
+    "communication_score",
+    "teamwork_score",
+    "punctuality_score",
+    "learning_progress",
+    "task_completion_rate",
+    "performance_score"
+  ],
+  "feature_means": {
+    "attendance_percentage": 84.75188,
+    "tasks_completed": 14.044,
+    "tasks_pending": 5.296,
+    "avg_task_score": 7.77786,
+    "mentor_feedback_score": 7.7537,
+    "communication_score": 7.53814,
+    "teamwork_score": 7.49754,
+    "punctuality_score": 7.74248,
+    "learning_progress": 7.6858200000000005,
+    "task_completion_rate": 0.7387078998128548,
+    "performance_score": 7.665923333333333
+  },
+  "feature_stds": {
+    "attendance_percentage": 8.86895940150816,
+    "tasks_completed": 3.779690992660643,
+    "tasks_pending": 3.2280619572740545,
+    "avg_task_score": 1.005243861160067,
+    "mentor_feedback_score": 1.0346503322379015,
+    "communication_score": 1.1538571577106067,
+    "teamwork_score": 1.1955044744374654,
+    "punctuality_score": 0.9855767091403895,
+    "learning_progress": 1.0287493026000067,
+    "task_completion_rate": 0.14523575271954292,
+    "performance_score": 0.43903612570923795
+  }
+}
